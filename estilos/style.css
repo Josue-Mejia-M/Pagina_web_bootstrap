@@ -1,0 +1,33 @@
+.html{
+    background-color: rgb(242, 246, 246);
+}
+
+.color-barra{
+    background-color: rgb(165, 161, 197);
+}
+
+.img{
+    float: left;
+    padding: 10px;
+    height: 80px;
+
+}
+
+.section {
+    width: 33%;
+    float: left; 
+    padding: 20px;
+}
+
+.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.seccion-formulario{
+    width: 33%; 
+    padding: 20px;
+}
+
+
